@@ -7,5 +7,5 @@
 * **体积云**
     
 ## Screenshots
-<div align="center"> <img src="screenshots/1.png" width="600" /> <br> <em></em> </div>
+<div align="center"> <img src="Screenshots/1.png" width="600" /> <br> <em></em> </div>
 
